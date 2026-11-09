@@ -1,0 +1,7 @@
+{
+  "name": "meshbay-e2e-hello",
+  "version": "6.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
