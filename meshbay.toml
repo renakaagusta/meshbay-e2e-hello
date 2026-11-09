@@ -1,7 +1,0 @@
-[[services]]
-name = "web"
-ports = ["8080"]
-[services.build]
-dockerfile = "Dockerfile"
-[services.healthcheck]
-disable = true
